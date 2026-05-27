@@ -13,9 +13,9 @@ Após o ajuste de hiperparâmetros buscando evitar *overfitting*, foi alcançado
 
 | Métrica | Resultado |
 | :--- | :--- |
-| **Acurácia** | 77.12% |
-| **Recall (Churn)** | 49.00% |
-| **Precisão (Churn)** | 60.00% |
+| **Accuracy** | 77.12% |
+| **Recall** | 49.00% |
+| **Precision** | 60.00% |
 
 > **Nota:** O modelo é capaz de capturar aproximadamente 50% de todos os cancelamentos reais, permitindo uma economia significativa através de campanhas de retenção direcionadas.
 
